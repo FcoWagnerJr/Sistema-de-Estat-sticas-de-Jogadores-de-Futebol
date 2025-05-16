@@ -21,5 +21,3 @@ Dados_jogadores.py
  💻 Tecnologias
 - Python 3
 - Estruturas de dados nativas (listas e dicionários)
-
-*Desenvolvido para fins educacionais*
